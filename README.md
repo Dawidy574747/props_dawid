@@ -2,8 +2,8 @@
 
 ## to do pf:
 
-- [ ] write who rules in the hood,
-- [ ] add new file
+- [x] write who rules in the hood,
+- [x] add new file
 
 ## to do db
 
